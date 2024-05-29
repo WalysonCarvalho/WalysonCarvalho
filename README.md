@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey there, I'm Walyson!
 
-<!--
-**WalysonCarvalho/WalysonCarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a 26-year-old web developer enthusiastic about coding and innovation. Always on the lookout for learning opportunities and challenges.
 
-Here are some ideas to get you started:
+### Highlights
+- 🚀 Passionate about front-end development.
+- 🌐 Skilled in creating responsive and dynamic web pages.
+- 🎓 Continuously expanding my knowledge in web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Let's Connect!
+- 📧 Email: [walysonmello18@outlook.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/walyson-carvalho/]
+
+
+### Current Stack
+- **Frontend:** HTML, CSS, JavaScript, React, Next.js
+- **Design:** Figma
+
+Excited to be part of this technology community
