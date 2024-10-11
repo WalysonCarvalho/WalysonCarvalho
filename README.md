@@ -1,19 +1,26 @@
 # Hey there, I'm Walyson!
 
-#### I'm a 26-year-old web developer enthusiastic about coding and innovation. Always on the lookout for learning opportunities and challenges.
+#### Sou um desenvolvedor web de 26 anos, entusiasta de codificação e inovação. Sempre em busca de oportunidades de aprendizado e desafios.
 
-### Highlights
-- 🚀 Passionate about front-end development.
-- 🌐 Skilled in creating responsive and dynamic web pages.
-- 🎓 Continuously expanding my knowledge in web technologies.
+Destaques
+- 🚀 Apaixonado por desenvolvimento front-end.
+- 🌐 Habilidade em criar páginas web responsivas e dinâmicas.
+- 🎓 Constantemente expandindo meus conhecimentos em tecnologias web.
 
-### Let's Connect!
+Vamos nos conectar!
 - 📧 Email: [walysonmello18@outlook.com]
 - 💼 LinkedIn: [https://www.linkedin.com/in/walyson-carvalho/]
 
 
-### Current Stack
-- **Frontend:** HTML, CSS, JavaScript, React, Next.js
-- **Design:** Figma
+Stack Atual
+- Frontend: HTML, CSS, JavaScript, React, Next.js
+- Design: Figma
 
-Excited to be part of this technology community
+Empolgado por fazer parte desse universo de tecnologia!
+
+
+
+
+
+
+
